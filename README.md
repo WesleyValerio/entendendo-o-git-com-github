@@ -6,4 +6,6 @@ O versionamento de código, também conhecido como controle de versão, é um pr
 
 ## Entender o Git
 
-## Entender o Github
+## Entender o 
+
+O Github é uma plataforma de hospedagem de repositórios na nuvem. 
